@@ -1,0 +1,56 @@
+Question 1: List out Features of HTML5.
+
+Solution: 
+ 
+      HTML5, the fifth version of the Hypertext Markup Language, introduces several new features and enhancements over its predecessors. 
+   Here are some key features of HTML5:
+
+1. Semantic Elements:
+   - Introduces new semantic elements like `<header>`, `<footer>`, `<article>`, `<section>`, `<nav>`, `<figure>`, `<figcaption>`, etc.,
+       which provide a more meaningful structure to web documents.
+
+2. Audio and Video Support:
+   - Native support for embedding audio and video content using `<audio>` and `<video>` elements, reducing the need for third-party plugins like Flash.
+
+3. Canvas API:
+   - Introduces the `<canvas>` element and associated JavaScript API, allowing for dynamic rendering of graphics, charts, and other visual elements.
+
+4. Local Storage:
+   - Provides a client-side storage mechanism through the `localStorage` and `sessionStorage` APIs, allowing web applications to store data locally on the user's device.
+
+5. Offline Web Applications:
+   - Offers the ability to create offline web applications using the Application Cache (AppCache)        feature, enabling users to access
+content even without an internet connection.
+
+6. WebSockets:
+   - Supports the WebSocket protocol, allowing for real-time communication between a web browser and a web server over a single, long-lived connection.
+
+7. Web Workers:
+   - Introduces the concept of web workers, which enables the execution of JavaScript code in the background, improving 
+the responsiveness and performance of web applications.
+
+8. Geolocation API:
+   - Provides a Geolocation API that allows web applications to access the user's geographical location, facilitating location-aware services.
+
+9. Form Controls and Input Types:
+   - Enhances form controls with new input types like `email`, `url`, `number`, `date`, `range`, and others, as well as attributes like `placeholder` and `pattern`.
+
+10. Drag and Drop:
+    - Supports native drag-and-drop functionality, allowing users to drag elements and drop them onto designated areas within a web page.
+
+11. Responsive Design:
+    - Promotes responsive web design by introducing features like the `<picture>` element for handling responsive images and the `<meta>` tag for viewport control.
+
+12. New Document Structure:
+    - Simplifies document structure with the removal of certain presentational elements (e.g., `<font>`, `<center>`) 
+     and attributes in favor of more semantic alternatives.
+
+13. SVG (Scalable Vector Graphics):
+    - Provides native support for Scalable Vector Graphics (SVG), allowing the inclusion of vector-based images directly in the HTML document.
+
+14. Accessibility Improvements:
+    - Includes enhancements to improve web accessibility, such as the `alt` attribute for all images, native support
+     for ARIA (Accessible Rich Internet Applications) roles, and other features.
+
+15. CSS3 Integration:
+    - Works seamlessly with CSS3 features, providing enhanced styling options and layout capabilities.
